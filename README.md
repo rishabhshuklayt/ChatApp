@@ -1,7 +1,7 @@
-Certainly! Here's an example of a Markdown (.md) file for your chat app:
+
 
 ```markdown
-# 😎 Chat App
+# 😎 Chat App url=>>  https://chatapp-bdzl.onrender.com/
 
 ## Description
 This is a simple chat application built using HTML, JavaScript, and CSS for the web, featuring a chatbot interface where users can send and receive messages.
@@ -13,7 +13,8 @@ This is a simple chat application built using HTML, JavaScript, and CSS for the 
 - Responsive design for various devices
 
 ## Screenshots
-![Chat App Screenshot](/path/to/screenshot.png)
+![Chat App Screenshot] ![image](https://github.com/rishabhshuklayt/ChatApp/assets/127231574/82ace756-004c-449b-879d-0ccc920e66a4)
+
 
 ## Technologies Used
 - HTML
